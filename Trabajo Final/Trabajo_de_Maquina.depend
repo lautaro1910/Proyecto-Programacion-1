@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1574171324 source:c:\users\usuario pc\desktop\tengo sueño\main.c
+	"Paciente.h"
+	"Lista_Paciente.h"
+	"Lista_Prioridad.h"
+
+1574106189 c:\users\usuario pc\desktop\tengo sueño\paciente.h
+	<string.h>
+
+1573853541 c:\users\usuario pc\desktop\tengo sueño\lista_paciente.h
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+
+1574017408 c:\users\usuario pc\desktop\tengo sueño\lista_prioridad.h
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+
+1574173448 source:c:\users\usuario pc\desktop\tengo sueño final\main.c
+	"Paciente.h"
+	"Lista_Paciente.h"
+	"Lista_Prioridad.h"
+
+1574106189 c:\users\usuario pc\desktop\tengo sueño final\paciente.h
+	<string.h>
+
+1573853541 c:\users\usuario pc\desktop\tengo sueño final\lista_paciente.h
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+
+1574017408 c:\users\usuario pc\desktop\tengo sueño final\lista_prioridad.h
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+
+1574173761 source:c:\users\usuario pc\desktop\trabajo final\main.c
+	"Paciente.h"
+	"Lista_Paciente.h"
+	"Lista_Prioridad.h"
+
+1574106189 c:\users\usuario pc\desktop\trabajo final\paciente.h
+	<string.h>
+
+1573853541 c:\users\usuario pc\desktop\trabajo final\lista_paciente.h
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+
+1574017408 c:\users\usuario pc\desktop\trabajo final\lista_prioridad.h
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+
